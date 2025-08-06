@@ -1,3 +1,5 @@
+![Portfolio Preview](images/screenshot.png)
+
 # MyPortfolio
 
 A fully responsive personal portfolio website built using **HTML5**, **Tailwind CSS**, and **modern design principles**.  
